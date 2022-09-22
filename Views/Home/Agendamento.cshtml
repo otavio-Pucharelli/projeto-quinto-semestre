@@ -1,0 +1,27 @@
+@{
+    ViewData["Title"] = "Agendamento";
+}
+
+<main id="agendamento-content">
+    <div id="agendamento-form">
+        <h2 class="title-content">Pré-agendamento</h2>
+        <form method="post">
+            <label asp-for="nome">Nome:</label>
+            <input asp-for="nome" class="estilo-input" size="30" required placeholder="Seu Nome">
+            
+            <label asp-for="fone">Telefone:</label>
+            <input asp-for="fone" class="estilo-input" size="30" required placeholder="Seu telefone">
+            
+            <label asp-for="data">Data:</label>
+            <input asp-for="data" class="estilo-input" size="30" required placeholder="dd/mm/aa">
+            
+            <label asp-for="animal">Animal:</label>
+            <input asp-for="animal" class="estilo-input" size="30" required placeholder="Seu animal">
+
+            <label asp-for="nescessidade">Nescessidade:</label>
+            <textarea asp-for="nescessidade" cols="35" rows="8" requiered placeholder="informe a nescessidaed do seu pet"> </textarea>
+
+            <input type="submit" id="form-submit" value="Enviar">
+        </form>
+    </div>
+</main>

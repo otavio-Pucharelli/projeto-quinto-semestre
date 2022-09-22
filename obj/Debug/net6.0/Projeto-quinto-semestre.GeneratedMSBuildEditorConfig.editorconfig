@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Otavio\Source\Repos\otavio-Pucharelli\projeto-quinto-semestre
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Otavio/Source/Repos/otavio-Pucharelli/projeto-quinto-semestre/Views/Home/Agendamento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZ2VuZGFtZW50by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Otavio/Source/Repos/otavio-Pucharelli/projeto-quinto-semestre/Views/Home/Confirmaçao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb25maXJtYcOnYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Otavio/Source/Repos/otavio-Pucharelli/projeto-quinto-semestre/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

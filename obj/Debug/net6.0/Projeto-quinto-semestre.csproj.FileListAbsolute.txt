@@ -24,3 +24,14 @@ C:\Users\Otavio\source\repos\Projeto-quinto-semestre\obj\Debug\net6.0\refint\Pro
 C:\Users\Otavio\source\repos\Projeto-quinto-semestre\obj\Debug\net6.0\Projeto-quinto-semestre.pdb
 C:\Users\Otavio\source\repos\Projeto-quinto-semestre\obj\Debug\net6.0\Projeto-quinto-semestre.genruntimeconfig.cache
 C:\Users\Otavio\source\repos\Projeto-quinto-semestre\obj\Debug\net6.0\ref\Projeto-quinto-semestre.dll
+C:\Users\Otavio\Source\Repos\otavio-Pucharelli\projeto-quinto-semestre\obj\Debug\net6.0\Projeto-quinto-semestre.csproj.AssemblyReference.cache
+C:\Users\Otavio\Source\Repos\otavio-Pucharelli\projeto-quinto-semestre\obj\Debug\net6.0\Projeto-quinto-semestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Otavio\Source\Repos\otavio-Pucharelli\projeto-quinto-semestre\obj\Debug\net6.0\Projeto-quinto-semestre.AssemblyInfoInputs.cache
+C:\Users\Otavio\Source\Repos\otavio-Pucharelli\projeto-quinto-semestre\obj\Debug\net6.0\Projeto-quinto-semestre.AssemblyInfo.cs
+C:\Users\Otavio\Source\Repos\otavio-Pucharelli\projeto-quinto-semestre\obj\Debug\net6.0\Projeto-quinto-semestre.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\Source\Repos\otavio-Pucharelli\projeto-quinto-semestre\obj\Debug\net6.0\Projeto-quinto-semestre.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Otavio\Source\Repos\otavio-Pucharelli\projeto-quinto-semestre\obj\Debug\net6.0\Projeto-quinto-semestre.RazorAssemblyInfo.cache
+C:\Users\Otavio\Source\Repos\otavio-Pucharelli\projeto-quinto-semestre\obj\Debug\net6.0\Projeto-quinto-semestre.RazorAssemblyInfo.cs
+C:\Users\Otavio\Source\Repos\otavio-Pucharelli\projeto-quinto-semestre\obj\Debug\net6.0\Projeto-quinto-semestre.dll
+C:\Users\Otavio\Source\Repos\otavio-Pucharelli\projeto-quinto-semestre\obj\Debug\net6.0\refint\Projeto-quinto-semestre.dll
+C:\Users\Otavio\Source\Repos\otavio-Pucharelli\projeto-quinto-semestre\obj\Debug\net6.0\Projeto-quinto-semestre.pdb
