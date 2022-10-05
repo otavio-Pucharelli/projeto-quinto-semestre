@@ -2,10 +2,10 @@
 {
     public class Agendamento
     {
-        public string? nome { get; set; }
-        public string? data { get; set; }
-        public string? fone { get; set; }
-        public string? animal { get; set; }
-        public string? necessidade { get; set; }
+        public string? Nome { get; set; }
+        public string? Data { get; set; }
+        public string? Fone { get; set; }
+        public string? Animal { get; set; }
+        public string? Necessidade { get; set; }
     }
 }
