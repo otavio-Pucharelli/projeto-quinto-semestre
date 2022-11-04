@@ -7,4 +7,16 @@
     <RootNamespace>Projeto_quinto_semestre</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="Views\Home\img\dante.jpg" />
+    <Content Include="Views\Home\img\dante1.jpg" />
+    <Content Include="Views\Home\img\dante3.jpg" />
+    <Content Include="Views\Home\img\dante4.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\style.css" />
+    <None Include="wwwroot\js\script.js" />
+  </ItemGroup>
+
 </Project>

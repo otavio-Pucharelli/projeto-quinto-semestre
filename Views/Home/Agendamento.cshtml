@@ -3,26 +3,55 @@
     ViewData["Title"] = "Agendamento";
 }
 
-<main id="agendamento-content">
-    <div id="agendamento-form">
-        <h2 class="title-content">Pré-agendamento</h2>
-        <form method="post">
-            <label>Nome:</label>
-            <input asp-for="Nome" class="estilo-input" size="30" required placeholder="Seu Nome">
-            
-            <label>Telefone:</label>
-            <input asp-for="Fone" class="estilo-input" size="30" required placeholder="Seu telefone">
-            
-            <label>Data:</label>
-            <input asp-for="Data" class="estilo-input" size="30" required placeholder="dd/mm/aa">
-            
-            <label>Animal:</label>
-            <input asp-for="Animal" class="estilo-input" size="30" required placeholder="Seu animal">
+<link rel="stylesheet" href="~/css/agendamento.css" asp-append-version="true" />
 
-            <label>Nescessidade:</label>
-            <textarea asp-for="Necessidade" cols="35" rows="8" requiered placeholder="informe a nescessidaed do seu pet"></textarea>
-            
-            <input type="submit" id="form-submit" value="Enviar">
-        </form>
-    </div>
+
+<main id="agendamento-content">
+    <div id="agendamento-form row">
+
+
+        <div class="mx-auto" style="width: 500px;">
+
+
+            <h3>Realize seu pré agendamento, caso aprovado entraremos em contato </h3>
+
+
+
+
+            <h2 class="title-content">Pré-agendamento</h2>
+
+
+
+
+            <form method="post">
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="Nome">Nome</label>
+                        <input asp-for="Nome" class="form-control" size="30" required placeholder="Seu Nome">
+                    </div>
+                    <div class="form-group">
+                        <label for="Fone">Telefone</label>
+                        <input asp-for="Fone" class="form-control" size="30" required placeholder="Seu telefone">
+                    </div>
+                    <div class="form-group">
+                        <label for="Animal">Animal</label>
+                        <input asp-for="Animal" class="form-control" size="30" required placeholder="Seu animal">
+                    </div>
+                    <div class="form-group">
+                        <label for="Necessidade">Necessidade</label>
+                        <textarea asp-for="Necessidade" class="form-control" cols="35" rows="8" requiered placeholder="informe a nescessidaed do seu pet"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="Necessidade">Data</label>
+                        <input asp-for="Data" class="form-control" size="30" required placeholder="dd/mm/aa">
+                    </div>
+
+                </div>
+                <input type="submit" id="form-submit" classs="btn" value="Enviar">
+            </form>
+        </div>
+        </div>
+
+        <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 </main>

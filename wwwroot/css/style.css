@@ -1,0 +1,121 @@
+html,
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  max-width: 100%;
+  margin: 0;
+  margin-top: -0.5rem;
+  background-color: #a5a5a5;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("../img/dig1.jpg");
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px;
+  padding: 0px;
+}
+
+nav ul{
+  list-style-type: none;
+  overflow: hidden; 
+  background-color: black;  
+}
+
+nav ul li {
+  float: left;
+  text-align: center;
+}
+
+nav ul li a {
+  display: block;
+  color: #a5a5a5;
+  text-align: center;
+  padding: 20px 40px;
+  text-decoration: none;
+  
+}
+nav ul li a .active {
+  color: #a86b2d;
+  
+}
+
+/* Change the link color to #111 (black) on hover */
+nav ul li a:hover {
+  background-color: #111;
+  transition: 1s;
+  border-radius: 5%;
+  color: #fff;
+}
+
+.divisor{
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+}
+
+
+.dogimage{
+  height: 400px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  color: #a5a5a5;
+}
+.dogimage img{
+  margin-left: 15%;
+}
+.dogimage p{
+  margin-left: 10%;
+}
+ 
+footer{
+  background: black;
+  color: #fff;
+  padding: 2rem 0;
+  text-align: center;
+  font-size: .8rem;
+  color: rgba(white,.4);
+}
+.container ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+footer ul li{
+    display: inline-block;
+}
+footer ul li a{
+      display: block;
+      padding: .4rem .7rem;
+      font-size: .9rem;
+      text-decoration: none;
+      color: #a5a5a5
+}
+footer ul li a:hover{
+        color: white;
+}
+
+.tini p{
+    color: #464646;
+    font-size: 14px
+}
+.tini{
+    margin-top: 15%
+}
+
