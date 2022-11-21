@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Otavio\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Ana Paula\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Otavio\\Source\\Repos\\otavio-Pucharelli\\projeto-quinto-semestre\\Projeto-quinto-semestre.csproj",
+      "projectUniqueName": "C:\\projeto-quinto-semestre\\Projeto-quinto-semestre.csproj",
       "projectName": "Projeto-quinto-semestre",
-      "projectPath": "C:\\Users\\Otavio\\Source\\Repos\\otavio-Pucharelli\\projeto-quinto-semestre\\Projeto-quinto-semestre.csproj",
-      "packagesPath": "C:\\Users\\Otavio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Otavio\\Source\\Repos\\otavio-Pucharelli\\projeto-quinto-semestre\\obj\\",
+      "projectPath": "C:\\projeto-quinto-semestre\\Projeto-quinto-semestre.csproj",
+      "packagesPath": "C:\\Users\\Ana Paula\\.nuget\\packages\\",
+      "outputPath": "C:\\projeto-quinto-semestre\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Otavio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Ana Paula\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

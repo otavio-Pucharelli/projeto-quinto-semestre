@@ -12,3 +12,24 @@
     margin: 0px;
     padding: 0px;
 }
+
+.datetime {
+    border: 1px solid #c9c9c9;
+    border-radius: 5px;
+    display: block;
+    height: 35px;
+    margin: 8px 0;
+    width: 500px;
+}
+
+input[type="date"]::-webkit-inner-spin-button,
+input[type="date"]::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+}
+
+input[type="time"]::-webkit-inner-spin-button,
+input[type="time"]::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+}

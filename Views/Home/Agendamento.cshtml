@@ -13,13 +13,9 @@
         <div class="mx-auto" style="width: 500px;">
 
 
-            <h3>Realize seu pré agendamento, caso aprovado entraremos em contato </h3>
-
-
 
 
             <h2 class="title-content">Pré-agendamento</h2>
-
 
 
 
@@ -27,28 +23,28 @@
 
                 <div class="form-row">
                     <div class="form-group">
-                        <label for="Nome">Nome</label>
                         <input asp-for="Nome" class="form-control" size="30" required placeholder="Seu Nome">
                     </div>
+                    <br />
                     <div class="form-group">
-                        <label for="Fone">Telefone</label>
                         <input asp-for="Fone" class="form-control" size="30" required placeholder="Seu telefone">
                     </div>
+                    <br />
                     <div class="form-group">
-                        <label for="Animal">Animal</label>
                         <input asp-for="Animal" class="form-control" size="30" required placeholder="Seu animal">
                     </div>
+                    <br />
                     <div class="form-group">
-                        <label for="Necessidade">Necessidade</label>
                         <textarea asp-for="Necessidade" class="form-control" cols="35" rows="8" requiered placeholder="informe a nescessidaed do seu pet"></textarea>
                     </div>
+                    <br />
                     <div class="form-group">
-                        <label for="Necessidade">Data</label>
-                        <input asp-for="Data" class="form-control" size="30" required placeholder="dd/mm/aa">
+                        <input asp-for="Data" id="date" class="form-control datetime" type="date" size="30" required placeholder="dd/mm/aa" data-provide="datepicker">
                     </div>
 
                 </div>
-                <input type="submit" id="form-submit" classs="btn" value="Enviar">
+                <br>
+                <input type="submit" id="form-submit" class="btn btn-primary" value="Enviar">
             </form>
         </div>
         </div>
